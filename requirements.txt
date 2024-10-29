@@ -1,0 +1,5 @@
+crewai==0.70.1
+crewai-tools==1.0.0
+python-dotenv==0.19.2
+openai==0.27.0  # Se estiver usando o OpenAI LLM
+requests==2.26.0  # Para fazer chamadas HTTP, se necessário

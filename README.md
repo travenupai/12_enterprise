@@ -26,6 +26,7 @@ MAC:  source .venv/bin/activate  # para Linux/macOS
 
 PARA QUEM JÁ CRIOU O AMBIENTE VIRTUAL
 .venv\Scripts\activate    # para Windows
+python.exe -m pip install --upgrade pip
 pip install crewai
 pip install crewai-tools
 pip install --upgrade crewai crewai-tools
